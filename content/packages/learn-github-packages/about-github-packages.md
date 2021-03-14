@@ -76,7 +76,7 @@ You can review the package's README, some metadata like licensing, download stat
 
 {% if currentVersion ver_gt "enterprise-server@2.22" %}
 {% note %}
-
+ 
 **Note:** Docker is not supported when subdomain isolation is disabled.
 
 {% endnote %}
